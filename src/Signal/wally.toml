@@ -1,0 +1,15 @@
+[package]
+name = "maneetoo/signal"
+description = "Extended reactive signal with filtering, mapping. Built on `Signal` with automatic lifecycle management via `Trove`. Inspired from: GoodSignal by stravant"
+version = "0.1.0"
+license = "MIT"
+authors = ["maneetoo"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+[dependencies]
+Safe = "maneetoo/safe@0.1.0"
+TSTypes = "maneetoo/tstypes@0.1.2"
+Trove = "sleitnick/trove@1.8.0"
+Stream = "maneetoo/stream@0.1.0"
+Task = "maneetoo/task@0.1.0"
+typeof = "maneetoo/typeof@0.1.0"

@@ -1,0 +1,11 @@
+[package]
+name = "maneetoo/switch"
+description = "Pattern-matching dispatcher — mirrors Selene's `switch(o, funcs…)`."
+version = "0.1.0"
+license = "MIT"
+authors = ["maneetoo"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+[dependencies]
+typeof = "maneetoo/typeof@0.1.0"
+TSTypes = "maneetoo/tstypes@0.1.2"

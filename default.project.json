@@ -1,0 +1,15 @@
+{
+  "name": "LuauUtils",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Utils": {
+        "$path": "src/"
+      },
+      "Packages": {
+        "$path": "Packages/"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+[package]
+name = "maneetoo/noyield"
+description = "A strict runtime guard that prevents coroutine yields inside wrapped functions."
+version = "0.1.0"
+license = "MIT"
+authors = ["maneetoo"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+[dependencies]
